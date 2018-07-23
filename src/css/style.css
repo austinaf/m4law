@@ -174,7 +174,7 @@ a {
 }
 
 #hero {
-  margin-top: 90px;
+  margin-top: 5.625em;
 }
 
 .hero {
@@ -220,7 +220,7 @@ a {
 }
 
 #content {
-  margin-top: 350px;
+  margin-top: 22em;
 }
 
 .shoes {
@@ -258,7 +258,7 @@ a {
 }
 
 #focusareas {
-  margin-top: 150px;
+  margin-top: 9.5em;
 }
 
 .areas-header {
@@ -333,7 +333,7 @@ a {
 }
 
 #ending {
-  margin-top: 150px;
+  margin-top: 9.5em;
   background: #fff;
   padding: 60px 0;
 }
