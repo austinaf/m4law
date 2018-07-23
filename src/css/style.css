@@ -335,7 +335,7 @@ a {
 #ending {
   margin-top: 150px;
   background: #fff;
-  padding: 48px 0;
+  padding: 60px 0;
 }
 
 .ending {
@@ -345,7 +345,7 @@ a {
 }
 
 .ending > div > .commonheading {
-  margin: .5em 0;
+  margin: 0 0 .5em 0;
 }
 
 .ending > div > .commonheading::after {
