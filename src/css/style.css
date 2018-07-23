@@ -261,6 +261,25 @@ a {
   margin-top: 150px;
 }
 
+.areas-header {
+  margin-bottom: 4em;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.areas-header > .headingborder {
+  width: 180px;
+}
+
+.areas-header > .commonheading {
+  margin-top: 0;
+}
+
+.areas-header > .commonheading::after {
+  content: none;
+}
+
 .areas {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
