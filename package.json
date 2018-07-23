@@ -1,0 +1,22 @@
+{
+  "name": "m4law",
+  "version": "1.0.0",
+  "description": "m4law website revamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinaf/m4law.git"
+  },
+  "author": "Austin Fox, Anthony Yarbrough",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/austinaf/m4law/issues"
+  },
+  "homepage": "https://github.com/austinaf/m4law#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  }
+}
